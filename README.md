@@ -1,4 +1,6 @@
-### Hi there 👋
+### Congratualtions, you've found my GitHub Profile!
+
+- I'm currently a student at Langara College and enjoying learning about Full-Stack Web Development.
 
 <!--
 **JChan2424/JChan2424** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
